@@ -1,0 +1,5 @@
+# 10-helloGH-tSchimmerl
+
+Markdown Cheatsheet: https://github.com/3ahmns-2526-sosem/10-helloGH-tSchimmerl.git
+
+Hello GitHub: erstes Repository online angelegt.
